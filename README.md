@@ -69,7 +69,7 @@ This project is open-source under the **MIT License**.
 - [Medium](https://medium.com/@deividas-strole)  
 - [X](https://x.com/deividasstrole)  
 
-⭐ If you found this project useful, consider starring it!
+⭐ If you found this project useful, consider starring it.
 
 © Deividas Strole. All rights reserved.
 
