@@ -17,7 +17,7 @@ Developed by **Deividas Strole**, Full-Stack Software Engineer, as a portfolio a
 
 ## 🧠 Technical Highlights
 
-- **Python 3.11+** — Core logic for mapping and tracking  
+- **Flutter/Dart** — Core logic for mapping and tracking  
 - **Mobile Optimization** — Efficient processing and interface for smartphones  
 - **Modular Code** — Easy to extend for new mapping features  
 
@@ -29,16 +29,16 @@ This project demonstrates practical mobile app development using Python and real
 
 | Technology | Usage |
 |-----------|------|
-| **Python 3.11+** | Core tracking logic and scripts |
+| **Flutter/Dart** | Core tracking logic and scripts |
 | **Mobile-friendly UI** | Responsive interface for smartphones |
-| **Python Libraries** | Location handling, data storage, and mapping utilities |
+| **Flutter/Dart** | Location handling, data storage, and mapping utilities |
 
 ---
 
 ## 🎯 Purpose
 
 Created as a **personal project** and mobile utility tool for:  
-- Learning mobile app development with Python  
+- Learning mobile app development with Flutter/Dart
 - Showcasing practical location tracking tools in a portfolio  
 - Personal or travel-related mapping solutions  
 
